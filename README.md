@@ -1,5 +1,4 @@
-# chonobo_read_labeling
-## A pipeline to phase the genome of a chimpanzee-bonobo hybrid
+### chonobo_read_labeling -- A pipeline to phase the genome of a chimpanzee-bonobo hybrid
 
 
 ###Step1. label the reads with SNPs they map to based on heterozygous sites
